@@ -6,6 +6,9 @@
   box-sizing: border-box;
 }
 
+.hidden,#linkmp3{
+  display:none;}
+
 :root {
   --dark-color: #000;
 }
